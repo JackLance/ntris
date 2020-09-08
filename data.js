@@ -2,23 +2,23 @@ ominos = [
         [
         ],
         [
-                { color: '#eeffef', blocks : [[0,0],], pivot: [0,0] },
+                { color: '#ffffff', blocks : [[0,0],], pivot: [0,0] },
         ],
         [
-                { color: '#dde9ff', blocks : [[0,0],[0,1],], pivot: [-0.5,0.5] },
+                { color: '#e4eaff', blocks : [[0,0],[0,1],], pivot: [-0.5,0.5] },
         ],
         [
-                { color: '#fff6cc', blocks : [[0,0],[0,1],[0,2],], pivot: [0,1] },
-                { color: '#ffcccc', blocks : [[0,0],[0,1],[1,0],], pivot: [0.5,0.5] },
+                { color: '#ddffff', blocks : [[0,0],[0,1],[0,2],], pivot: [0,1] },
+                { color: '#ffdddd', blocks : [[0,0],[0,1],[1,0],], pivot: [0.5,0.5] },
         ],
         [
-                { color: '#d3bbff', blocks : [[0,0],[0,1],[0,2],[0,3],], pivot: [-0.5,1.5] },
-                { color: '#bbd6ff', blocks : [[0,0],[0,1],[0,2],[1,0],], pivot: [0.5,0.5] },
-                { color: '#bbffe3', blocks : [[0,0],[0,1],[0,2],[1,1],], pivot: [0,1] },
-                { color: '#d1bbff', blocks : [[0,0],[0,1],[0,2],[1,2],], pivot: [0.5,1.5] },
-                { color: '#ffbdbb', blocks : [[0,0],[0,1],[1,0],[1,1],], pivot: [0.5,0.5] },
-                { color: '#beffbb', blocks : [[0,1],[0,2],[1,0],[1,1],], pivot: [0.5,1.5] },
-                { color: '#ffc7bb', blocks : [[0,1],[1,0],[1,1],[2,0],], pivot: [1.5,0.5] },
+                { color: '#bbffff', blocks : [[0,0],[0,1],[0,2],[0,3],], pivot: [-0.5,1.5] },
+                { color: '#bbbbff', blocks : [[0,0],[0,1],[0,2],[1,0],], pivot: [0.5,0.5] },
+                { color: '#ddbbff', blocks : [[0,0],[0,1],[0,2],[1,1],], pivot: [0,1] },
+                { color: '#ffddbb', blocks : [[0,0],[0,1],[0,2],[1,2],], pivot: [0.5,1.5] },
+                { color: '#ffffbb', blocks : [[0,0],[0,1],[1,0],[1,1],], pivot: [0.5,0.5] },
+                { color: '#ffbbbb', blocks : [[0,1],[0,2],[1,0],[1,1],], pivot: [0.5,1.5] },
+                { color: '#bbffbb', blocks : [[0,1],[1,0],[1,1],[2,0],], pivot: [1.5,0.5] },
         ],
         [
                 { color: '#ff99eb', blocks : [[0,0],[0,1],[0,2],[0,3],[0,4],], pivot: [0,2] },
